@@ -1,3 +1,15 @@
 html{
     scroll-behavior: smooth;
 }
+@media (max-width: 600px){
+   .tamimg{
+        width: 700px;
+        height: 250px;
+   }
+   .posinav{
+       position: relative;
+   }
+   .tamlink{
+       width: 95vw;
+   }
+  }
